@@ -13,7 +13,7 @@
 
 ##
 
-Hello! I’m Wafiq M. Abdul Aziz 😃, hailing from the beautiful city of Bandung, West Java. Currently, I’m pursuing my B.Tech at the esteemed College of Technology Pratama Adi in Bandung 👨‍🎓. I have a passion for exploring and learning new things, always eager to expand my horizons and embrace new challenges. 👨‍💻
+Hello! I’m Wafiq M. Abdul Aziz 😃, hailing from the beautiful city of Bandung, West Java. Currently, I’m pursuing my B.Tech at the esteemed College of Technology in Bandung 👨‍🎓. I have a passion for exploring and learning new things, always eager to expand my horizons and embrace new challenges. 👨‍💻
 
 ## 👯 Communities and Events
 
