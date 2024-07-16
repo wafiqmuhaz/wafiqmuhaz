@@ -9,7 +9,7 @@
 
 ##
 
-<h3 align="center">Mobile Dev (Flutter and Compose) | Applied ML and AI Enthusiast | Technical Blogger</h3>
+<h3 align="center">Mobile Dev (*Flutter and Compose*) | Applied ML and AI Enthusiast | Technical Blogger</h3>
 
 ##
 
