@@ -59,6 +59,4 @@ Talk to me about:
   <a href="https://hub.docker.com/u/wafiqmuhaz"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
   <a href="https://www.youtube.com/@wafiqmuhaz1890"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
   <a href="https://twitter.com/azwamuh"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://www.tiktok.com/@az.wamuh_"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
-</p>
 
